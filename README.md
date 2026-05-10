@@ -1,8 +1,8 @@
 # SocialNet Web Application
 
 ## Student Information
-- Name: YOUR NAME
-- Student Number: YOUR STUDENT NUMBER
+- Name: Tran Cong Khanh
+- Troy ID: 1695318
 
 ---
 
